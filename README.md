@@ -1,5 +1,7 @@
 # python-ml
 
+[youtube video](https://www.youtube.com/watch?v=WFr2WgN9_xE)
+
 **Works on a conda virtual enviroment**
 
 `conda create -n tensorfl python=3.6`
